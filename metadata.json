@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Dice Roller",
+  "description": "A simple and beautiful dice rolling application. Click the button to roll the dice and get a random number from one to six.",
+  "requestFramePermissions": []
+}
